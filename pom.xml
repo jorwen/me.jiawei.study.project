@@ -7,7 +7,7 @@
     <groupId>me.jiawei.study</groupId>
     <artifactId>me.jiawei.study.project</artifactId>
     <packaging>pom</packaging>
-    <name>project</name>
+    <name>project-parent</name>
     <version>${project.version}</version>
     <description>project demo</description>
 
@@ -20,7 +20,6 @@
     <properties>
         <project.version>1.0.0-SNAPSHOT</project.version>
         <spring.version>4.3.4.RELEASE</spring.version>
-
     </properties>
 
     <dependencyManagement>
